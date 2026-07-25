@@ -175,7 +175,6 @@ compiler/
 
 ## Planned Features
 
-- [ ] For loops
 - [ ] Enums
 - [ ] Switch statements
 - [ ] Modules and imports
@@ -184,7 +183,6 @@ compiler/
 - [ ] Classes
 - [ ] Interfaces
 - [ ] Pattern matching
-- [ ] Standard library
 - [ ] Better optimization passes
 - [ ] Cross-platform package manager
 - [ ] Language server (LSP)
@@ -231,12 +229,4 @@ The project is primarily an educational compiler exploring language implementati
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
-
-<p align="center">
-Built with ❤️, C++, and LLVM.
-</p>
